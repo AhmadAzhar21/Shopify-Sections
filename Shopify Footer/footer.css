@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  color: #ffffff;
+}
+.custom-footer-main-wrapper ul{
+  list-style-type: none;
+}
+.custom-footer-main-wrapper a{
+  color: #ffffff;
+  text-decoration: none;
+}
+.custom-footer-main-wrapper{
+  background-color: #000000;
+  padding: 4%;
+}
+.custom-footer-main-wrapper .footer-main-content{
+  display: flex;
+  column-gap: 3%;
+}
+.custom-footer-main-wrapper .footer-logo-desc-section{
+}
+.custom-footer-main-wrapper p{
+  max-width: 42ch;
+}
+.custom-footer-main-wrapper .footer-link-list-main-wrapper{
+  
+}
